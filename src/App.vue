@@ -1,7 +1,8 @@
 <template lang="pug">
 v-app
   v-main
-    router-view
+    v-container
+      router-view
 </template>
 
 <script>
