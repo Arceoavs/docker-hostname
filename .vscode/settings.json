@@ -4,5 +4,11 @@
   "vetur.format.defaultFormatter.js": "prettier-eslint",
   "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[pug]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
